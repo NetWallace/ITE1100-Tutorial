@@ -1,5 +1,6 @@
 ITE1100 Tutorial 4 Part B
 Eon Wallace & Deanna Sobers
+
 This repository was created to complete The GitHub tutorial
 
 1. Create GitHub repository
